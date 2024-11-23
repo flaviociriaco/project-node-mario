@@ -1,4 +1,6 @@
-<h1>Desafio de projeto do Felipão: Mario Kart.JS</h1>
+<h1>"Projeto feito do Curso de NODE.JS da DIO.ME , do Felipe</h1>
+
+<h2>Desafio de projeto do Felipão: Mario Kart.JS</h2>
 
   <table>
         <tr>
